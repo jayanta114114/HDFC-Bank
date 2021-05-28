@@ -1,5 +1,3 @@
 some text ..
 first line added..
-added by developer-2
-fisrt feature added 
 added by developer-1
